@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Multi-Platform App</b>
-  - [ToDo App](https://github.com/ushaimramadhan)
+  - [ToDo App](https://github.com/ushaimramadhan/ToDo-App)
 
 <h2>📄 Certifications</h2>
 
-- [ToDo App](https://github.com/ushaimramadhan)
+- [ToDo App](https://github.com/ushaimramadhan/ToDo-App.Certification)
 
 <h2> 🤳 Connect with me:</h2>
 
