@@ -1,13 +1,13 @@
 ### Hi there, I'm Ushaim Ramadhan! 👋
 
-I am an Informatics Student at **Gunadarma University**. Currently focusing my journey on **Backend Engineering**. I'm documenting my learning process.
+I am an Informatics Student at **Gunadarma University**. Currently focusing my journey on **Android Engineering** and **Backend Engineering**. I'm documenting my learning process.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -15,10 +15,11 @@ I am an Informatics Student at **Gunadarma University**. Currently focusing my j
 
 ---
 
-### 🔭 Current Focus
-- 🐹 Learning **Go (Golang)** syntax and concurrency
-- 🔌 Understanding **RESTful API** principles
-- 🗄️ Exploring **Database Design** & SQL
+### Current Focus
+-  Learning **Kotlin** and **Java**
+-  Understanding **UI & Layouting** principles
+-  Understanding **RESTful API** principles
+-  Exploring **Database Design** & SQL
 
 ---
 
