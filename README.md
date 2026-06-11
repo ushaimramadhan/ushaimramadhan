@@ -1,6 +1,6 @@
 ### Hi there, I'm Ushaim Ramadhan! 👋
 
-I am an Informatics Student at **Gunadarma University**. Currently focusing my journey on **Backend Engineering** and **Frontend Engineering**. I'm documenting my learning process.
+I am an Informatics Student at **Gunadarma University**. I'm documenting my learning process.
 
 ---
 
@@ -23,9 +23,9 @@ I am an Informatics Student at **Gunadarma University**. Currently focusing my j
 ---
 
 ### Current Focus
--  Understanding **UI & Layouting** principles
--  Understanding **RESTful API** principles
--  Exploring **Database Design** & SQL
+-  Advanced SQL & Query Optimization
+-  Data Exploration using Python
+-  Understanding Database Design & Data Modeling principles
 
 ---
 
